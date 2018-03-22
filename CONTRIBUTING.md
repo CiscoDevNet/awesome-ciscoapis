@@ -13,7 +13,7 @@ To set this list apart from and compliment the official Cisco API Documentation,
 - Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
 - Add one resource per Pull Request.
 - Search existing resources before making a new one, as yours may be a duplicate.
-- Enforce this formatting : * [resource-name](http://link-to-your-resource-depot.com/) - A short description ends with a period.
+- Enforce this formatting : `* [resource-name](http://link-to-your-resource-depot.com/) - A short description ends with a period.`
 - Keep descriptions clear, concise, and non-promotional
 - Add a section if needed 
    - Needs bibliotica 3 (minimum required) to create a new section

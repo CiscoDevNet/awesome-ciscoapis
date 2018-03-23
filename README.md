@@ -17,7 +17,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 # Collaboration
 
-See [awesome-ciscospark](https://github.com/CiscoDevNet/awesome-ciscospark)
+* [awesome-ciscospark](https://github.com/CiscoDevNet/awesome-ciscospark) - A curated list of resources for Cisco Spark Developers.
 
 # Cloud
 

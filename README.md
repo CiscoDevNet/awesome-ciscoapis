@@ -21,15 +21,15 @@ See [awesome-ciscospark](https://github.com/CiscoDevNet/awesome-ciscospark)
 
 # Cloud
 
-* [kubam](https://github.com/CiscoUcs/KUBaM) - Deploy Solutions on Cisco UCS with a Simple Open Source Light-Weight Bare Metal Installer (by vallard and team)
+* [kubam](https://github.com/CiscoUcs/KUBaM) - Deploy Solutions on Cisco UCS with a Simple Open Source Light-Weight Bare Metal Installer (by vallard and team).
 
 # Data Center
 
-* [UCS Python SDK Dynamic Modules and Reflection](https://github.com/movinalot/ucs-config) - Minimal code Using Python Relection along with the UCS Python SDK to create create or update any of the thousands of objects in the UCS Object Model. Works with [ucsmsdk](https://github.com/CiscoUcs/ucsmsdk) or [imcsdk](https://github.com/CiscoUcs/imcsdk)
+* [UCS Python SDK Dynamic Modules and Reflection](https://github.com/movinalot/ucs-config) - Minimal code Using Python Relection along with the UCS Python SDK to create create or update any of the thousands of objects in the UCS Object Model. Works with [ucsmsdk](https://github.com/CiscoUcs/ucsmsdk) or [imcsdk](https://github.com/CiscoUcs/imcsdk).
 
-* [UCS Manager Deployment with UCS PowerTool](https://github.com/movinalot/ucs-deploy-powertool) - Use UCS PowerTool to do full UCS Manager deployments
+* [UCS Manager Deployment with UCS PowerTool](https://github.com/movinalot/ucs-deploy-powertool) - Use UCS PowerTool to do full UCS Manager deployments.
 
-* [Manager Your Data Center with Amazon Echo and Alexa](https://github.com/movinalot/ucs-alexa) - Data Center UCS Manager and CIMC Management with an Amazon Echo
+* [Manager Your Data Center with Amazon Echo and Alexa](https://github.com/movinalot/ucs-alexa) - Data Center UCS Manager and CIMC Management with an Amazon Echo.
 
 # IoT
 

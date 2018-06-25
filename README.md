@@ -17,7 +17,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 # Collaboration
 
-* [awesome-ciscospark](https://github.com/CiscoDevNet/awesome-ciscospark) - A curated list of resources for Cisco Spark Developers.
+* [awesome-webex](https://github.com/CiscoDevNet/awesome-webex) - A curated list of Cisco Webex resources for developers.
 
 # Cloud
 
